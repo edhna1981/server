@@ -90,15 +90,26 @@
       "id": "5DurfFH4F1U"
     },
     {
-      "doctorId": "1",
-      "doctorName": "Dr. Anil Kumar",
-      "patientName": "Megha",
-      "phone": "345678765432",
-      "date": "2026-10-07",
-      "slot": "11:00 AM",
-      "tokenNumber": "MQ-015223",
+      "doctorId": "4",
+      "doctorName": "Dr. Priya Thomas",
+      "patientName": "Ashish",
+      "phone": "25688642456789",
+      "date": "2026-11-03",
+      "slot": "9:30 AM",
+      "tokenNumber": "MQ-216532",
       "status": "Booked",
-      "id": "EdKhmxxk07M"
+      "id": "WKnBbqyASSY"
+    },
+    {
+      "doctorId": "3",
+      "doctorName": "Dr. Rahul Menon",
+      "patientName": "jane",
+      "phone": "345678987654",
+      "date": "2026-10-07",
+      "slot": "3:30 PM",
+      "tokenNumber": "MQ-978744",
+      "status": "Booked",
+      "id": "-GkGPF8WCIo"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
